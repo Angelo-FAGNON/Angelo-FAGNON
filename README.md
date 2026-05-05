@@ -1,4 +1,4 @@
-# Angelo Pascal Fagnon
+# Angelo Pascal FAGNON
 
 ## Full Stack Web Developer
 
