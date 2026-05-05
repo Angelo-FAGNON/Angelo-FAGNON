@@ -51,9 +51,11 @@ A web platform that connects NGOs with volunteers to improve collaboration and s
 
 ### 🔸 BeninBee Spelling Game API (In Progress)
 Development of a RESTful API for the Benin Bee platform for spelling game, focused on performance, scalability, and secure data handling.
+Link : https://api-spellinggame.beninbee.org/
 
 ### 🔸 Birthday Celebration Platform (DigiWeb)
 Design and development of a web platform to manage and celebrate collaborators' birthdays within DigiWeb, improving team engagement and internal communication.
+Link : https://happybirthday.digiweb.bj/
 
 ---
 
